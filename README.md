@@ -1,1 +1,1 @@
-# KDD_Project_LCA
+# LCA_prediction
